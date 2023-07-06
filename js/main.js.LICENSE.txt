@@ -1,0 +1,11 @@
+/*!
+ * dist/inputmask.min
+ * https://github.com/RobinHerbots/Inputmask
+ * Copyright (c) 2010 - 2023 Robin Herbots
+ * Licensed under the MIT license
+ * Version: 5.0.9-beta.18
+ */
+
+/*! For license information please see choices.min.js.LICENSE.txt */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
